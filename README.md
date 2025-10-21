@@ -1,7 +1,7 @@
 ```
  _________________
-/ cooper union ee \
-\ class of 2026   /
+/ electrical      \
+\ engineer...?    /
  -----------------
         \   ^__^
          \  (oo)\_______
